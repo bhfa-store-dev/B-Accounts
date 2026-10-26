@@ -1,6 +1,6 @@
 # 💼 B Accounts – Professional Desktop Accounting & POS
 
-**B Accounts** is a complete, offline-first desktop accounting and point-of-sale software built specifically for small and medium businesses in Pakistan. 
+**B Accounts** is a complete, offline-first desktop accounting and point-of-sale software built specifically for small and medium businesses. 
 
 Designed with speed, reliability, and ease-of-use in mind, B Accounts runs entirely on your local machine. Your data stays with you—no cloud subscriptions, no internet required, and no recurring monthly fees.
 
@@ -8,15 +8,25 @@ Designed with speed, reliability, and ease-of-use in mind, B Accounts runs entir
 
 ## 📸 Software Screenshots
 
-*(Click to expand)*
-
-| Dashboard & Analytics | Inventory & Stock |
+| Dashboard & Analytics | Sales & Invoicing |
 | :---: | :---: |
-| ![Dashboard](dashboard.png) | ![Inventory](inventory.png) |
+| ![Dashboard](dashboard.png) | ![Invoice](invoicing.png) |
 
-| Sales & Invoicing | Financial Reports |
+| Accounting & Reports | Inventory & Customers |
 | :---: | :---: |
-| ![Invoicing](invoicing.png) | ![Reports](reports.png) |
+| ![Trial Balance](trial-balance.png) | ![Customers](customers-suppliers.png) |
+
+| Profit & Loss | Balance Sheet |
+| :---: | :---: |
+| ![Profit Loss](profit-loss.png) | ![Balance Sheet](balance-sheet.png) |
+
+| Payments & Cheques | Journal Vouchers |
+| :---: | :---: |
+| ![Payments](payments.png) | ![Journal](journal-voucher.png) |
+
+| Settings & Setup | Invoice Reports |
+| :---: | :---: |
+| ![Settings](settings.png) | ![Invoice Report](invoice-report.png) |
 
 ---
 
@@ -28,15 +38,7 @@ Designed with speed, reliability, and ease-of-use in mind, B Accounts runs entir
 *   **🧾 Sales & Purchasing:** Multi-rate invoicing (Retail/Wholesale), automatic credit-limit enforcement, and instant A4/Thermal printing.
 *   **💳 Payment & Cheque Lifecycle:** Track cash, bank transfers, EasyPaisa/JazzCash, and full cheque lifecycles (Issue → Deposit → Clear/Bounce). Automatic bank charges on bounce.
 *   **🏢 Fixed Assets:** Track depreciation using Straight-Line, Written Down Value (WDV), or Sum-of-Years methods.
-*   **🛡️ Security & Backups:** Automatic daily backups, AES-256 encrypted backup options, master password protection, and auto-lock features.
-
----
-
-## 🛠️ System Requirements
-*   **OS:** Windows 10 / 11 (macOS / Linux compatible)
-*   **RAM:** 4GB minimum (8GB recommended)
-*   **Storage:** 200MB for installation
-*   **Java:** Bundled (No separate Java installation required)
+*   **🛡️ Security & Backups:** Automatic daily backups, encrypted backup options, master password protection, and auto-lock features.
 
 ---
 
@@ -46,11 +48,11 @@ Designed with speed, reliability, and ease-of-use in mind, B Accounts runs entir
 
 To purchase a license, request a custom build, or schedule a live demo:
 
-*   📱 **WhatsApp / Call:** `[YOUR_PHONE_NUMBER]` *(e.g., +92 300 1234567)*
-*   ✉️ **Email:** `[YOUR_EMAIL]` *(e.g., sales@yourdomain.com)*
-*   💬 **Message me on WhatsApp:** [Click here to chat](https://wa.me/[YOUR_PHONE_NUMBER_WITHOUT_PLUS_OR_SPACES])
+*   📱 **WhatsApp / Call:** `03033471849`
+*   ✉️ **Email:** `bhfastore@gmail.com`
+*   💬 **Message me on WhatsApp:** [Click here to chat](https://wa.me/923033471849)
 
 > *"Stop paying monthly cloud subscriptions. Own your business data with B Accounts."*
 
 ---
-**© 2026 [YOUR_COMPANY_NAME]. All rights reserved.** *This software is proprietary. Unauthorized distribution or modification is strictly prohibited.*
+**© 2026 BHFA Store. All rights reserved.** *This software is proprietary. Unauthorized distribution or modification is strictly prohibited.*
