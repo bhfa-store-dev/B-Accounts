@@ -10,27 +10,27 @@ Designed with speed, reliability, and ease-of-use in mind, B Accounts runs entir
 
 | Dashboard & Analytics | Sales & Invoicing |
 | :---: | :---: |
-| ![Dashboard](images/dashboard.png) | ![Invoice](images/invoicing.png) |
+| ![Dashboard](dashboard.png) | ![Invoice](invoicing.png) |
 
-| Accounting & Reports (Trial Balance) | Inventory & Customers |
+| Accounting & Reports | Inventory & Customers |
 | :---: | :---: |
-| ![Trial Balance](images/trial-balance.png) | ![Customers](images/customers-suppliers.png) |
+| ![Trial Balance](trial-balance.png) | ![Customers](customers-suppliers.png) |
 
 | Profit & Loss | Balance Sheet |
 | :---: | :---: |
-| ![Profit Loss](images/profit-loss.png) | ![Balance Sheet](images/balance-sheet.png) |
+| ![Profit Loss](profit-loss.png) | ![Balance Sheet](balance-sheet.png) |
 
 | Payments & Cheques | Journal Vouchers |
 | :---: | :---: |
-| ![Payments](images/payments.png) | ![Journal](images/journal-voucher.png) |
+| ![Payments](payments.png) | ![Journal](journal-voucher.png) |
 
 | Settings & Setup | Invoice Reports |
 | :---: | :---: |
-| ![Settings](images/settings.png) | ![Invoice Report](images/invoice-report.png) |
+| ![Settings](settings.png) | ![Invoice Report](invoice-report.png) |
 
 | Chart of Accounts |
 | :---: |
-| ![Chart of Accounts](images/chart-of-accounts.png) |
+| ![Chart of Accounts](chart-of-accounts.png) |
 
 ---
 
